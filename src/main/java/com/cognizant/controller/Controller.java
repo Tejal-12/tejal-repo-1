@@ -3,7 +3,7 @@ package com.cognizant.controller;
 public class Controller {
 
 	
-	public String addMember()
+	public String subMember()
 	{
 		return "Member_1";
 	}
