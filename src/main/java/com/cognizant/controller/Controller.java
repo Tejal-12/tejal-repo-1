@@ -8,8 +8,8 @@ public class Controller {
 		return "Member_1";
 	}
 
-	public Staring sub()
+	public Staring mul()
 	{
-		return "1+2=3";
+		return "1*2=2";
 	}
 }
