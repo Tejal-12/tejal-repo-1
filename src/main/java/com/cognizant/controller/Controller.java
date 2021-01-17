@@ -7,4 +7,9 @@ public class Controller {
 	{
 		return "Member_1";
 	}
+
+	public Staring add()
+	{
+		return "1+2=3";
+	}
 }
