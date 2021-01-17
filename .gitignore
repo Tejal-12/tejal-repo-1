@@ -3,6 +3,11 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+*.swp
+Controller_BACKUP_1169.java
+Controller_BASE_1169.java
+Controller_LOCAL_1169.java
+Controller_REMOTE_1169.java
 
 ### STS ###
 .apt_generated
